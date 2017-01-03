@@ -1,3 +1,7 @@
 <?php
 echo "hi";
-echo "hello" . "1";
+<<<<<<< HEAD
+echo "hello" . "2";
+=======
+echo "hello";
+>>>>>>> parent of 42fa099... 2nd update
